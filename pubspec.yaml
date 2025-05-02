@@ -1,5 +1,5 @@
 name: tapcounter_flutter
-description: "A new Flutter module project."
+description: "A new Flutter app project."
 
 version: 1.0.0+1
 
@@ -26,11 +26,5 @@ flutter_icons:
 flutter:
   uses-material-design: true
 
-  # Include any assets you want to bundle at runtime
   assets:
     - assets/icon.png
-
-  module:
-    androidX: true
-    androidPackage: com.example.flutter_module_1
-    iosBundleIdentifier: com.example.flutterModule1
