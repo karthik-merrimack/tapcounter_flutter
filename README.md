@@ -1,16 +1,2 @@
-# tapcounter_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project #6 - Week 7 - Assignment 1.B
+<img width="457" alt="Screenshot 2025-05-03 at 20 31 03" src="https://github.com/user-attachments/assets/1cb319d2-fe7a-457a-b8cc-af366fd52b6a" />
